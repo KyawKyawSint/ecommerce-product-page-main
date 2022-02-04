@@ -1,3 +1,5 @@
+/* getting html tag for script */
+
 const ulTag = document.querySelector("ul");
 const sliderTag = document.querySelector(".slider");
 const galleryTag = document.querySelectorAll(".thumbnailImage");
