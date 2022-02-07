@@ -494,7 +494,7 @@ footer a {
 
 /* for various screen view */
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
 
     .combineContainer {
         width: 100%;
@@ -514,7 +514,7 @@ footer a {
 
 }
 
-@media (max-width: 1130px) {
+@media screen and (max-width: 1130px) {
 
     .hamburgerMenu {
         display: block;
@@ -526,7 +526,7 @@ footer a {
     }
 }
 
-@media (max-width: 1120px) {
+@media screen and (max-width: 1120px) {
 
     .cartContent {
         width: 100%;
@@ -538,14 +538,14 @@ footer a {
     }
 }
 
-@media (max-width: 990px) {
+@media screen and (max-width: 990px) {
 
     .rightContainer {
         margin-left: 110px;
     }
 }
 
-@media (max-width: 769px) {
+@media screen and (max-width: 769px) {
 
     .leftNavbar {
         margin-left: 0;
@@ -566,7 +566,7 @@ footer a {
         
 }
 
-@media (max-width: 580px) {
+@media screen and (max-width: 580px) {
     .carouselImage {
         width: 100%;
     }    
